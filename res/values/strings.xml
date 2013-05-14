@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Cartera de Clientes</string>
+    <string name="action_settings">Settings</string>
+    <string name="lbl1">PLACA:</string>
+    <string name="btnbuscar">Ingresar</string>
+
+</resources>
